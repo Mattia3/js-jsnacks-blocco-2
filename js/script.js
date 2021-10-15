@@ -8,6 +8,5 @@ if(numeroRandom%2 === 0){
   //se è dispari
 }else{
   console.log("dispari")
-  console.log(casualNumber +1)
   //stampa questo codice
 }
